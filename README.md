@@ -127,7 +127,3 @@ dnte.on('created', (info) => {
 ### Docs
 
 `npm run docs`
-
-## License
-
-MIT © [Leonardo Rico](https://github.com/kevoj/thispersondoesnotexist-js/blob/master/LICENSE)
